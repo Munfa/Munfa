@@ -44,7 +44,7 @@ I started building a Bangla voice assistant after seeing how difficult smartphon
 | [Air Quality & Health Risk](https://github.com/Munfa/Air-Quality-Health-Risk) | End-to-end AQI prediction → health risk system with live API + dashboard | FastAPI, XGBoost, PostgreSQL, Streamlit |
 | [News Sentiment Analysis](https://github.com/Munfa/News-Sentiment-Analysis) | Comparative NLP pipeline: TextBlob vs VADER vs DistilBERT vs RoBERTa on live news | HuggingFace, NewsAPI |
 | [Movies Search Engine](https://github.com/Munfa/movies-search-engine) | Semantic search over movie catalog using sentence embeddings | SentenceTransformers, FAISS |
-| [ChefBot](https://github.com/Munfa/ChefBot) | A RAG powered cooking assistant | LangChain | ChromaDB | SentenceTransformers | Groq API (LLaMA 3) | Gradio |
+| [ChefBot](https://github.com/Munfa/ChefBot) | A RAG powered cooking assistant | LangChain, ChromaDB, SentenceTransformers |
 
 ---
 
