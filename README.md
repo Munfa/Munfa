@@ -29,11 +29,11 @@ RAG pipelines · HuggingFace Transformers · AQI/environmental ML · building en
 ## 📫 How to reach me
 **Email:** munfa2014@gmail.com  
 **LinkedIn:** [linkedin.com/in/munfa](https://www.linkedin.com/in/muhsinamunfa)  
-**Google Scholar:** [scholar profile]([https://scholar.google.com](https://scholar.google.com/citations?user=lRhSuyUAAAAJ&hl=en))  
+**Google Scholar:** [scholar profile](https://scholar.google.com/citations?user=lRhSuyUAAAAJ&hl=en)<br>
 **Personal site:** [Munfa.github.io](https://munfa.github.io)
 
-## ⚡ Fun fact
-I started building a Bangla voice assistant after seeing how difficult smartphones can be for digitally low-literate users. To support the project, I created my own intent dataset and am exploring how AI can make technology more accessible. Sometimes, the most important research tool is building the dataset yourself.
+## ⚡ Research Motivation
+I am interested in building AI systems that improve accessibility and inclusion. One project I am particularly passionate about is a Bangla voice assistant designed for digitally low-literate users. To support this work, I created a custom intent dataset and am exploring practical approaches that help users navigate smartphones through natural language interaction.
 
 ---
 
